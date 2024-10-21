@@ -1,0 +1,15 @@
+[
+  {
+    "username": "juli",
+    "password": "123",
+    "email": "julian@example.com",
+    "profileImage": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "username": "ana",
+    "password": "ana",
+    "email": "anita@example.com",
+    "profileImage": "https://images.pexels.com/photos/10163780/pexels-photo-10163780.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    
+  }
+]
